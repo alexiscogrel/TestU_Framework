@@ -1,0 +1,6 @@
+build*/
+*.swp
+.cproject
+.project
+doc/conception/plantuml/plantuml.jar
+doc/conception/generated/*
